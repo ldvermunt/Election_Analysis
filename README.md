@@ -4,7 +4,7 @@ module 3
   This analysis used the voting data from 3 colorado counties to determine a congressinal district election winner.  
   Additionally, the total votes and breakdown of votes of all candidates as well as their percentage of total votes were calculated.  This information was then applied     to a .txt file for end user convenience. 
 
-## Rsdources
+## Resources
   - Data Source: elecction_results.csv
   - Software: Python 3.6.1 & Visual Studio Code 1.38.1
 
@@ -17,4 +17,11 @@ module 3
   4) **Candidate:** Raymon Anthony Doane: 11,606 votes - 3.1%
   5) **Winner:** Diana Degette with 73.8% of the total votes.
   
-#CHallenges
+## Challenge Overview
+  1) This was the largest coding module to date and was the first time in my life I was exposed to Python.  I found figuring out the syntax and different functions 
+      to be very challenging
+  2) I was also introduced to pushing to and pulling from my repository.  Another simple step for an experienced user, but confusing at first for me.
+##Challenge Summary
+  The challenges were overome with assistance from our live sessions, Bootcamp spot support and frankly alot of patience.
+  
+ 
