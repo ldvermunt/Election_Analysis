@@ -22,6 +22,6 @@ module 3
       to be very challenging
   2) I was also introduced to pushing to and pulling from my repository.  Another simple step for an experienced user, but confusing at first for me.
 ##Challenge Summary
-  The challenges were overome with assistance from our live sessions, Bootcamp spot support and frankly alot of patience.
+  The challenges were overcome with assistance from our live sessions, Bootcamp spot support and frankly alot of patience.
   
  
